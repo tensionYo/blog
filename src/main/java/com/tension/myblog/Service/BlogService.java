@@ -9,7 +9,7 @@ public interface BlogService {
     Blog getBlog(Integer id);
 
     List<Blog> AllBlogs();
-
+//
     Blog saveBlog();
 
 }
